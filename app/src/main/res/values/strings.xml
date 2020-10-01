@@ -1,3 +1,36 @@
 <resources>
     <string name="app_name">Form</string>
+    <string-array name="faculty">
+        <item>Teknik Sipil</item>
+        <item>Teknologi Informasi</item>
+        <item>Akuntansi</item>
+        <item>Administrasi Niaga</item>
+        <item>Teknik Mesin</item>
+        <item>Teknik Elektro</item>
+        <item>Teknik Kimia</item>
+    </string-array>
+    <string-array name="major">
+        <item>Magister Manajemen</item>
+        <item>Magister Kenotariatan</item>
+        <item>Magister Sains Biomedis</item>
+    </string-array>
+    <string-array name="status">
+        <item>Baru</item>
+        <item>Pindahan Fakultas</item>
+    </string-array>
+    <string-array name="religion">
+        <item>Islam</item>
+        <item>Kristen</item>
+        <item>Katolik</item>
+        <item>Budha</item>
+        <item>Hindu</item>
+    </string-array>
+    <string-array name="province">
+        <item>Jawa Timur</item>
+        <item>Jawa Barat</item>
+    </string-array>
+    <string-array name="city">
+        <item>Malang</item>
+        <item>Situbondo</item>
+    </string-array>
 </resources>
